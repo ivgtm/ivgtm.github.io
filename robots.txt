@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://ivgtm.github.io/sitemap/sitemap.txt
